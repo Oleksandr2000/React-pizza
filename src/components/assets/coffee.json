@@ -1,0 +1,79 @@
+[
+  {
+    "register": "best",
+    "title": "AROMISTICO Coffee 1 kg",
+    "price": 6.99,
+    "country": "Brazil",
+    "logo": "/img/product-logo.jpg"
+  },
+  {
+    "register": "best",
+    "title": "Presto Coffee Beans 1 kg",
+    "price": 16.99,
+    "country": "Brazil",
+    "logo": "/img/best1.jpg"
+  },
+  {
+    "register": "best",
+    "title": "Solimo Coffee Beans 2 kg",
+    "price": 14.99,
+    "country": "Brazil",
+    "logo": "/img/best2.jpg"
+  },
+  {
+    "register": "coffee",
+    "title": "AROMISTICO Coffee 1 kg",
+    "price": 6.99,
+    "country": "Brazil",
+    "logo": "/img/product-logo.jpg"
+  },
+  {
+    "register": "coffee",
+    "title": "Lavazza Qualita Oro 1 kg",
+    "price": 16.99,
+    "country": "Columbia",
+    "logo": "/img/product-logo.jpg"
+  },
+  {
+    "register": "coffee",
+    "title": "Moccona 1 kg",
+    "price": 7.99,
+    "country": "Kenya",
+    "logo": "/img/product-logo.jpg"
+  },
+  {
+    "register": "coffee",
+    "title": "Gevalia 1 kg",
+    "price": 9.99,
+    "country": "Columbia",
+    "logo": "/img/product-logo.jpg"
+  },
+  {
+    "register": "coffee",
+    "title": "Julius Meinl 1 kg",
+    "price": 17.99,
+    "country": "Kenya",
+    "logo": "/img/product-logo.jpg"
+  },
+  {
+    "register": "coffee",
+    "title": "Jacobs Monarch 1 kg 1 kg",
+    "price": 8.99,
+    "country": "Brazil",
+    "logo": "/img/product-logo.jpg"
+  },
+  {
+    "register": "pleasure",
+    "title": "AROMISTICO Coffee 1 kg",
+    "price": 6.99,
+    "country": "Brazil",
+    "logo": "/img/product-logo.jpg"
+  },
+  {
+    "register": "pleasure",
+    "title": "AROMISTICO Coffee 1 kg",
+    "price": 6.99,
+    "country": "Brazil",
+    "logo": "/img/product-logo.jpg"
+  }
+]
